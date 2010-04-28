@@ -1,0 +1,1023 @@
+
+chdir(/home/hparmar/tools/vim/share/vim)
+fchdir() to previous dir
+could not source "$VIM/vimrc"
+chdir(/home/hparmar)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+Searching for "filetype.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/filetype.vim"
+chdir(/home/hparmar/.vim)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/.vim/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/ftdetect/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/ftdetect/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/home/hparmar/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /home/hparmar/.vim/filetype.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/filetype.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/filetype.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/tools/vim/share/vim/vim72/filetype.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/filetype.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/filetype.vim"
+Searching for "/home/hparmar/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/ftplugin.vim"
+chdir(/home/hparmar/.vim)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/.vim/ftplugin.vim"
+finished sourcing /home/hparmar/.vim/ftplugin.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/ftplugin.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/ftplugin.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/tools/vim/share/vim/vim72/ftplugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/ftplugin.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/home/hparmar/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/indent.vim"
+chdir(/home/hparmar/.vim)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/.vim/indent.vim"
+finished sourcing /home/hparmar/.vim/indent.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/indent.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/indent.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72)
+fchdir() to previous dir
+line 2: sourcing "/home/hparmar/tools/vim/share/vim/vim72/indent.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/indent.vim
+continuing in /home/hparmar/.vimrc
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/indent.vim"
+Searching for "/home/hparmar/.vim/after/indent.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 3: sourcing "/home/hparmar/tools/vim/share/vim/vim72/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/syntax/synload.vim"
+chdir(/home/hparmar/.vim/syntax)
+fchdir() to previous dir
+line 19: sourcing "/home/hparmar/.vim/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/syntax/syncolor.vim"
+chdir(/home/hparmar/.vim/syntax)
+fchdir() to previous dir
+line 21: sourcing "/home/hparmar/.vim/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/syntax/synload.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 21: sourcing "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/syntax/synload.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/hparmar/.vim/after/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/syntax/synload.vim
+continuing in /home/hparmar/tools/vim/share/vim/vim72/syntax/syntax.vim
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/syntax/syntax.vim
+continuing in /home/hparmar/.vimrc
+Searching for "colors/torte.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/colors/torte.vim"
+chdir(/home/hparmar/.vim/colors)
+fchdir() to previous dir
+line 13: sourcing "/home/hparmar/.vim/colors/torte.vim"
+Searching for "syntax/syncolor.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/syntax/syncolor.vim"
+chdir(/home/hparmar/.vim/syntax)
+fchdir() to previous dir
+line 8: sourcing "/home/hparmar/.vim/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 8: sourcing "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/hparmar/.vim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/syntax/syncolor.vim"
+chdir(/home/hparmar/.vim/syntax)
+fchdir() to previous dir
+line 9: sourcing "/home/hparmar/.vim/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 9: sourcing "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/hparmar/.vim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/syntax/syncolor.vim"
+chdir(/home/hparmar/.vim/syntax)
+fchdir() to previous dir
+line 11: sourcing "/home/hparmar/.vim/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/syntax)
+fchdir() to previous dir
+line 11: sourcing "/home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/syntax/syncolor.vim
+continuing in /home/hparmar/.vim/colors/torte.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/hparmar/.vim/after/syntax/syncolor.vim"
+finished sourcing /home/hparmar/.vim/colors/torte.vim
+continuing in /home/hparmar/.vimrc
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/**/*.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/EnhancedCommentify.vim"
+finished sourcing /home/hparmar/.vim/plugin/EnhancedCommentify.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/NERD_commenter.vim"
+finished sourcing /home/hparmar/.vim/plugin/NERD_commenter.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/NERD_tree.vim"
+finished sourcing /home/hparmar/.vim/plugin/NERD_tree.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/ScrollColor.vim"
+finished sourcing /home/hparmar/.vim/plugin/ScrollColor.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/SearchComplete.vim"
+finished sourcing /home/hparmar/.vim/plugin/SearchComplete.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/SimpleFold.vim"
+finished sourcing /home/hparmar/.vim/plugin/SimpleFold.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/acp.vim"
+Searching for "autoload/acp.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/autoload/acp.vim"
+chdir(/home/hparmar/.vim/autoload)
+fchdir() to previous dir
+line 164: sourcing "/home/hparmar/.vim/autoload/acp.vim"
+finished sourcing /home/hparmar/.vim/autoload/acp.vim
+continuing in /home/hparmar/.vim/plugin/acp.vim
+finished sourcing /home/hparmar/.vim/plugin/acp.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/color_sample_pack.vim"
+finished sourcing /home/hparmar/.vim/plugin/color_sample_pack.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/endwise.vim"
+finished sourcing /home/hparmar/.vim/plugin/endwise.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/matrix.vim"
+finished sourcing /home/hparmar/.vim/plugin/matrix.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/scmdiff.vim"
+finished sourcing /home/hparmar/.vim/plugin/scmdiff.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/snippetsEmu.vim"
+function <SNR>15_echo(msg)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTmm()
+	Last set from ~/.vim/filetype.vim
+function <SNR>2_DtraceCheck()
+	Last set from ~/.vim/filetype.vim
+function <SNR>2_FTprogress_asm()
+	Last set from ~/.vim/filetype.vim
+function <SNR>20_getMatchingSnipItems(base)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_HasLeadingTabs(...)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_getPostText()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_promptToDelBuffer(bufnum, msg)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>18_Foldsearch(search)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function <SNR>15_chRoot()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_SQL()
+	Last set from ~/.vim/filetype.vim
+function <SNR>2_FTperl()
+	Last set from ~/.vim/filetype.vim
+function <SNR>20_finishPopup(fGroup1)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>24_scmRefresh()
+	Last set from ~/.vim/plugin/scmdiff.vim
+function <SNR>25_Debug(func, text)
+	Last set from ~/.vim/plugin/snippetsEmu.vim
+function <SNR>15_jumpToRoot()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_bookmarkNode(name)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_InvertComment(firstLine, lastLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_Check_inp()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_CommentBlock(top, bottom, lSide, rSide, forceNested)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_handleMiddleMouse()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_InitStringVariable(confVar, scriptVar, defaultVal)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_CountNonESCedOccurances(str, searchstr, escChar)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FTxml()
+	Last set from ~/.vim/filetype.vim
+function <SNR>2_FTprogress_cweb()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_Esc(str)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_Multipart()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>18_SimpleFold_FoldText()
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function <SNR>15_checkForActivate()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_dumpHelp()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_CheckPossibleEmbedding(ft)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>2_FTheader()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_findAndRevealPath()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_jumpToFirstChild()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_BindzoneCheck(default)
+	Last set from ~/.vim/filetype.vim
+function acp#meetsForPythonOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function acp#meetsForPerlOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_saveScreenState()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_GetRight(alt, space, esc)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>13_CommentifyMultiPart(lineString, commentStart, commentEnd, commentMiddle)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_CanPlaceCursor(line, col)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_CurrentColor()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_CanSexyCommentLines(topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_makeSnipmateItem(key, snip)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_SwapOutterMultiPartDelimsForPlaceHolders(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function SearchCompleteStop()
+	Last set from ~/.vim/plugin/SearchComplete.vim
+function <SNR>15_chCwd()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_LastIndexOfDelim(delim, str)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_setupSyntaxHighlighting()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_GetPrevColor(color)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>2_McSetf()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_activateNode(forceKeepWindowOpen)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_MapDelimiters(left, right)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>24_detectSCM()
+	Last set from ~/.vim/plugin/scmdiff.vim
+function <SNR>15_closeTreeWindow()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_InitVariable(var, value)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_GetSexyComLeft(space, esc)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_RefreshColorschemesList()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_NerdEcho(msg, typeOfMsg)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_echoError(msg)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_CheckSyntax(line, column)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function SetFileTypeShell(name)
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_SetKeybindings(where)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>15_getPath(ln)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTtex()
+	Last set from ~/.vim/filetype.vim
+function <SNR>18_FoldNestableBlocks(start, end, start_expr, end_expr)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function EnhancedCommentifyInitBuffer()
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>15_compareBookmarks(first, second)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function acp#onBs()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_FTchange()
+	Last set from ~/.vim/filetype.vim
+function NERDComment(isVisual, type)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_clearBookmarks(bookmarks)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_NumberOfLeadingTabs(s)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_JumpByIndex(list, total)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_indentLevelFor(line)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTpl()
+	Last set from ~/.vim/filetype.vim
+function <SNR>22_synname()
+	Last set from ~/.vim/plugin/endwise.vim
+function <SNR>15_bindMappings()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_ReplaceDelims(toReplace1, toReplace2, replacor1, replacor2, str)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FTmms()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_HasCStyleComments()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_ProtoCheck(default)
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_AddRightDelim(delim, theLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_getTreeWinNum()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_jumpToSibling(forward)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_compareNodes(n1, n2)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_CreateMenuItems(target, desc, root)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_PlaceDelimitersAndInsBetween()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_unique(list)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_GetSexyComMarker(space, esc)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_putCursorOnBookmarkTable()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_ReplaceRightMostDelim(toReplace, replacor, str)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_centerView()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTasm()
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_LookFor(what, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>15_openEntrySplit(vertical, forceKeepWindowOpen)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_Align(s, width)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>16_SortVar(list, sep)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>25_SetupSupertab()
+	Last set from ~/.vim/plugin/snippetsEmu.vim
+function <SNR>15_treeExistsForBuf()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_renderBookmarks()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_closeTreeIfQuitOnOpen()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function NERDTreeAddMenuSeparator(...)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_PrevSilent()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>13_TabsToSpaces(str)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_TabSpace()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FTRules()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_AddLeftDelim(delim, theLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_CommentLinesMinimal(firstLine, lastLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_SetColor(name)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_CreateMaps(target, combo)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_GetColorschemesList()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_restoreScreenState()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_closeTreeIfOpen()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_RestoreScreenState()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FTbtm()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_revealBookmark(name)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_IsCommented(left, right, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_getCurrentText()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>23_Init()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_renderViewSavingPosition()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function acp#disable()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_SaveScreenState()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_ListColors()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>13_DecideWhatToDo(lineString, commentStart, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>16_ColorScroller()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_previewNode(openNewWin)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_GetFirstColors()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_FindDelimiterIndex(delimiter, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_JumpByIndex2(list, total, index)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_isTreeOpen()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_isWindowUsable(winnumber)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_refreshCurrent()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_StarSetf(ft)
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_Commentify(lineString, commentSymbol, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>24_scmToggle()
+	Last set from ~/.vim/plugin/scmdiff.vim
+function <SNR>19_makeDefaultBehavior()
+	Last set from ~/.vim/plugin/acp.vim
+function <SNR>14_SwitchToAlternativeDelimiters(printMsgs)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_bufInWindows(bnum)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function EnhCommentifyFallback4Embedded(test, fallback)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>13_isDigit(char)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>16_ExitDialog(old, action)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>16_ScrollerHelp()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_checkForBrowse(dir)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTnroff()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_IsInSexyComment(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function SetFileTypeSH(name)
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_toggleIgnoreFilter()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_IsCommentedOuttermost(left, right, leftAlt, rightAlt, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_FinalEcho(suffix)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function NERDTreeRender()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>18_search_boundary(fold_start_re, combined_re, use_combined, flags)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function acp#meetsForHtmlOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>6_LoadIndent()
+	Last set from ~/.vim/indent.vim
+function <SNR>15_firstUsableWindow()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_nextBufferName()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>18_GetOption(name, ...)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function <SNR>15_initNerdTree(name)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function NERDTreeAddSubmenu(options)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_ConvertLeadingTabsToSpaces(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_IsCommentedNormOrSexy(lineNum)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>22_crend(always)
+	Last set from ~/.vim/plugin/endwise.vim
+function <SNR>15_closeCurrentDir()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>4_LoadFTPlugin()
+	Last set from ~/.vim/ftplugin.vim
+function <SNR>13_UnEscape(lineString, commentStart, commentEnd)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_UncommentLinesNormal(topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_putCursorInTreeWin()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTinc()
+	Last set from ~/.vim/filetype.vim
+function <SNR>14_UncommentLines(topLine, bottomLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_AddLeftDelimAligned(delim, theLine, alignIndx)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_RemoveDelimiters(left, right, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_initVariable(var, value)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function acp#unlock()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_FTidl()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_renderView()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_CanToggleCommentLine(forceNested, lineNum)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function Matrix()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_closeTree()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_Escape(lineString, commentStart, commentEnd)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_DoesBlockHaveDelim(delim, top, bottom)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>23_Animate()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_showMenu()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_jumpToChild(direction)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_UncommentLinesSexy(topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_RemoveDuplicates(list)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function acp#meetsForKeyword(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>16_FindIndex(list, entry)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_CanCommentLine(forceNested, lineNum)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_TabbedCol(line, col)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>18_IsOptionSet(name)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function <SNR>20_makeCurrentBehaviorSet()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_GetLeft(alt, space, esc)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>19_defineOption(name, default)
+	Last set from ~/.vim/plugin/acp.vim
+function <SNR>13_InitScriptVariables(nameSpace)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>2_FTlpc()
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_InitBooleanVariable(confVar, scriptVar, defaultVal)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>13_SpacesToTabs(str)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>16_NextColorscheme()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_UncommentLineNormal(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_completeBookmarks(A, L, P)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_SetUpForNewFiletype(filetype, forceReset)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>16_EntryByIndex(list, index)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>25_GetSuperTabSNR()
+	Last set from ~/.vim/plugin/snippetsEmu.vim
+function acp#meetsForRubyOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>23_Rand()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>13_UnCommentify(lineString, commentSymbol, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>20_setTempOption(group, name, value)
+	Last set from ~/.vim/autoload/acp.vim
+function acp#enable()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_jumpToParent()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_toggleZoom()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_GetFileTypeSettings(ft)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>13_CommentifySinglePart(lineString, commentSymbol)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>20_setCompletefunc()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_FTVB(alt)
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_closeChildren()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_openBookmark(name)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_GetSexyComRight(space, esc)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>23_Reset()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_deleteBookmark()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_treeExistsForTab()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_MakeWellFormedList(list)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>15_openNodeRecursively()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_CommentLines(forceNested, align, firstLine, lastLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_IsCommentedFromStartOfLine(left, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_jumpToLastChild()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTent()
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_ParseCommentsOp(commentOpen, commentClose)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>24_scmDiff(...)
+	Last set from ~/.vim/plugin/scmdiff.vim
+function acp#meetsForSnipmate(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_FTasmsyntax()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_initNerdTreeInPlace(dir)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_AltMultipart()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_LeftMostIndx(countCommentedLines, countEmptyLines, topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_HasMultipartDelims()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_restoreTempOptions(group)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_AddRightDelimAligned(delim, theLine, alignIndx)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_isModifiedSinceLastCall()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_CommentLinesSexy(topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FThtml()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_upDir(keepState)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_IsDelimValid(delimiter, delIndx, line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function NERDTreeAddMenuItem(options)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_DoBlockComputations(start, end)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_CommentLinesToggle(forceNested, firstLine, lastLine)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>9_SynSet()
+	Last set from ~/.vim/syntax/synload.vim
+function EnhancedCommentify(overrideEL, action, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_UnEsc(str, escChar)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>2_FTprogress_pascal()
+	Last set from ~/.vim/filetype.vim
+function <SNR>20_feedPopup()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_openInNewTab(stayCurrentTab)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>18_Num2S(num, len)
+	Last set from ~/.vim/plugin/SimpleFold.vim
+function <SNR>14_FindBoundingLinesOfSexyCom(lineNum)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_refreshRoot()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_ConvertLeadingSpacesToTabs(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_IsSexyComment(topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_AppendCommentToLine()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_toggleShowBookmarks()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_CountEntries(list)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_ReplaceLeftMostDelim(toReplace, replacor, str)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function SearchCompleteStart()
+	Last set from ~/.vim/plugin/SearchComplete.vim
+function <SNR>15_setupStatusline()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_PrevColorscheme()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function acp#completeSnipmate(findstart, base)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_openExplorer()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>23_CreateObject(i)
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_toggleShowHidden()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>20_unmapForMappingDriven()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_CSH()
+	Last set from ~/.vim/filetype.vim
+function <SNR>23_Cleanup()
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>22_mysearchpair(beginpat, endpat, synpat)
+	Last set from ~/.vim/plugin/endwise.vim
+function <SNR>2_FTe()
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_GetLineLen(line, offset)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function NERDTreeAddKeyMap(options)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>2_FTm()
+	Last set from ~/.vim/filetype.vim
+function <SNR>2_FTr()
+	Last set from ~/.vim/filetype.vim
+function <SNR>16_GetNextColor(color)
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function acp#meetsForFile(context)
+	Last set from ~/.vim/autoload/acp.vim
+function acp#onPopupCloseSnipmate()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>2_FTy()
+	Last set from ~/.vim/filetype.vim
+function <SNR>15_initNerdTreeMirror()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function SearchComplete()
+	Last set from ~/.vim/plugin/SearchComplete.vim
+function <SNR>14_MapDelimitersWithAlternative(left, right, leftAlt, rightAlt)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function EnhancedCommentifySet(option, value)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>16_NextSilent()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>20_getCurrentWord()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_exec(cmd)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>16_GetLastColors()
+	Last set from ~/.vim/plugin/ScrollColor.vim
+function <SNR>14_NumLinesInBuf()
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>20_mapForMappingDriven()
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>15_tabpagevar(tabnr, var)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_UntabbedCol(line, col)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>23_DrawObject(i)
+	Last set from ~/.vim/plugin/matrix.vim
+function <SNR>15_displayHelp()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function TestFiletypeFuncs(testlist)
+	Last set from ~/.vim/filetype.vim
+function <SNR>13_CommentEmptyLines(ft)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>15_toggleShowFiles()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_SubstituteWith(what, ...)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>14_ConvertLeadingWhiteSpace(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_RightMostIndx(countCommentedLines, countEmptyLines, topline, bottomline)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function acp#meetsForXmlOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_IsEscaped(str, indx, escChar)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_createTreeWin()
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>15_echoWarning(msg)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>14_DoesBlockHaveMultipartDelim(top, bottom)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_SwapOutterPlaceHoldersForMultiPartDelims(line)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function acp#onPopupPost()
+	Last set from ~/.vim/autoload/acp.vim
+function acp#lock()
+	Last set from ~/.vim/autoload/acp.vim
+function acp#meetsForCssOmni(context)
+	Last set from ~/.vim/autoload/acp.vim
+function <SNR>14_IsNumEven(num)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>14_CommentRegion(topLine, topCol, bottomLine, bottomCol, forceNested)
+	Last set from ~/.vim/plugin/NERD_commenter.vim
+function <SNR>15_stripMarkupFromLine(line, removeLeadingSpaces)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+function <SNR>13_EscapeString(string)
+	Last set from ~/.vim/plugin/EnhancedCommentify.vim
+function <SNR>15_toggle(dir)
+	Last set from ~/.vim/plugin/NERD_tree.vim
+finished sourcing /home/hparmar/.vim/plugin/snippetsEmu.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/supertab.vim"
+finished sourcing /home/hparmar/.vim/plugin/supertab.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/surround.vim"
+finished sourcing /home/hparmar/.vim/plugin/surround.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/taglist.vim"
+finished sourcing /home/hparmar/.vim/plugin/taglist.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/timestamp.vim"
+finished sourcing /home/hparmar/.vim/plugin/timestamp.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/trinity.vim"
+finished sourcing /home/hparmar/.vim/plugin/trinity.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcsbzr.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 47: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+No matching autocommands
+No matching autocommands
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcsbzr.vim
+finished sourcing /home/hparmar/.vim/plugin/vcsbzr.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcscvs.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 93: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcscvs.vim
+finished sourcing /home/hparmar/.vim/plugin/vcscvs.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcsgit.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 52: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcsgit.vim
+finished sourcing /home/hparmar/.vim/plugin/vcsgit.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcshg.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 54: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcshg.vim
+finished sourcing /home/hparmar/.vim/plugin/vcshg.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcssvk.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 47: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcssvk.vim
+finished sourcing /home/hparmar/.vim/plugin/vcssvk.vim
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/plugin/vcssvn.vim"
+Searching for "plugin/vcscommand.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/plugin/vcscommand.vim"
+chdir(/home/hparmar/.vim/plugin)
+fchdir() to previous dir
+line 54: sourcing "/home/hparmar/.vim/plugin/vcscommand.vim"
+finished sourcing /home/hparmar/.vim/plugin/vcscommand.vim
+continuing in /home/hparmar/.vim/plugin/vcssvn.vim
+finished sourcing /home/hparmar/.vim/plugin/vcssvn.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/plugin/**/*.vim"
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/getscriptPlugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/getscriptPlugin.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/gzip.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/gzip.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/matchparen.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/matchparen.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/netrwPlugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/netrwPlugin.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/rrhelper.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/rrhelper.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/spellfile.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/spellfile.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/tarPlugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/tarPlugin.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/tohtml.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/tohtml.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/vimballPlugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/vimballPlugin.vim
+chdir(/home/hparmar/tools/vim/share/vim/vim72/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/tools/vim/share/vim/vim72/plugin/zipPlugin.vim"
+finished sourcing /home/hparmar/tools/vim/share/vim/vim72/plugin/zipPlugin.vim
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/home/hparmar/.vim/after/plugin/**/*.vim"
+chdir(/home/hparmar/.vim/after/plugin)
+fchdir() to previous dir
+sourcing "/home/hparmar/.vim/after/plugin/snipMate.vim"
+finished sourcing /home/hparmar/.vim/after/plugin/snipMate.vim
+Reading viminfo file "/home/hparmar/.viminfo" info oldfiles
+Opening the X display failed
+Executing BufWinEnter Auto commands for "*"
+autocommand call EnhancedCommentifyInitBuffer()
+
+Executing BufEnter Auto commands for "*"
+autocommand :call s:SetUpForNewFiletype(&filetype, 0)
+
+Executing BufEnter Auto commands for "*"
+autocommand call s:checkForBrowse(expand("<amatch>"))
+
+Executing BufEnter Auto commands for "*"
+autocommand call <SID>InitBuffer()
+
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand call s:Bookmark.CacheBookmarks(0)
+
+autocommand runtime! nerdtree_plugin/**/*.vim
+
+Searching for "nerdtree_plugin/**/*.vim" in "/home/hparmar/.vim,/home/hparmar/tools/vim/share/vim/vimfiles,/home/hparmar/tools/vim/share/vim/vim72,/home/hparmar/tools/vim/share/vim/vimfiles/after,/home/hparmar/.vim/after"
+Searching for "/home/hparmar/.vim/nerdtree_plugin/**/*.vim"
+chdir(/home/hparmar/.vim/nerdtree_plugin)
+fchdir() to previous dir
+line 0: sourcing "/home/hparmar/.vim/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /home/hparmar/.vim/nerdtree_plugin/exec_menuitem.vim
+continuing in VimEnter Auto commands for "*"
+chdir(/home/hparmar/.vim/nerdtree_plugin)
+fchdir() to previous dir
+line 0: sourcing "/home/hparmar/.vim/nerdtree_plugin/fs_menu.vim"
+finished sourcing /home/hparmar/.vim/nerdtree_plugin/fs_menu.vim
+continuing in VimEnter Auto commands for "*"
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/nerdtree_plugin/**/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vim72/nerdtree_plugin/**/*.vim"
+Searching for "/home/hparmar/tools/vim/share/vim/vimfiles/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/hparmar/.vim/after/nerdtree_plugin/**/*.vim"
+Executing VimEnter Auto commands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call s:checkForBrowse(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Executing BufUnload Auto commands for "*"
+autocommand call s:VimDiffRestore(str2nr(expand('<abuf>')))
+
+Executing VimLeavePre Auto commands for "*"
+autocommand call s:CloseAllResultBuffers()
+
+Writing viminfo file "/home/hparmar/.viminfo"
