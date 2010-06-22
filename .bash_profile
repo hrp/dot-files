@@ -26,5 +26,7 @@ export PS1="
  ${YELLOW}\w${CYAN} $ ${WHITE} "
 }
 prompt
+
+
 echo ""
 fortune

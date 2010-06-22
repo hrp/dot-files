@@ -1,7 +1,15 @@
 # Snippet configuration file for XML crawl configs
-# Hiten Parmar / Last Modified: Wed 31 Mar 2010 07:12:47 PM PDT
+# Hiten Parmar / Last Modified: Fri 21 May 2010 02:53:11 PM PDT
 
-snippet fieldE full fieldEntry
+snippet spfe full fieldEntry
 	<fieldEntry>
 	  <name>${1}</name>
+	  <selector type="XSL Pattern">${2}</selector>
+	  <selector type="Script">theValue.${3}</selector>
 	</fieldEntry>
+snippet spmu
+	<multiple>true</multiple>
+snippet spde
+	<debug>true</debug>
+snippet spre
+	<selector type="Regular Expression" substring="1">${1}</selector>
